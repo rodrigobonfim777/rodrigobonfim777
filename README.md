@@ -37,10 +37,6 @@
 
 ## 👾 Pac-Man
 
-<p align="center">
-<img src="assets/pacman.svg" width="900">
-</p>
-
 
 
 
