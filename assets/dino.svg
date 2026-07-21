@@ -1,1 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
 
+<style>
+    .ground{
+        stroke:#58A6FF;
+        stroke-width:2;
+        stroke-dasharray:10 10;
+        animation:groundMove 1s linear infinite;
+    }
+
+    .cactus{
+        animation:cactusMove 3.5s linear infinite;
+    }
+
+    .cloud{
+        animation:cloudMove 18s linear infinite;
+        opacity:.5;
+    }
+
+    .legs{
+        animation:run .25s infinite alternate;
+        transform-origin:center;
+    }
+
+    .score{
+        font: bold 16px monospace;
+        fill:#58A6FF;
+    }
+
+    .title{
+        font:bold 20px monospace;
+        fill:#ffffff;
+    }
+
+    @keyframes cactusMove{
+        from{transform:translateX(930px);}
+        to{transform:translateX(-150px);}
+    }
+
+    @keyframes cloudMove{
+        from{transform:translateX(920px);}
+        to{transform:translateX(-250px);}
+    }
+
+    @keyframes run{
+        from{transform:rotate(10deg);}
+        to{transform:rotate(-10deg);}
+    }
+
+    @keyframes groundMove{
+        from{stroke-dashoffset:0;}
+        to{stroke-dashoffset:-20;}
+    }
+</style>
+
+<rect width="100%" height="100%" fill="#0d1117"/>
+
+<text x="25" y="35" class="title">
+🦖 Rodrigo Bonfim - GitHub Dino
+</text>
+
+<text x="720" y="35" class="score">
+HI 99999
+</text>
+
+<g class="cloud">
+    <ellipse cx="100" cy="40" rx="22" ry="10" fill="#999"/>
+    <ellipse cx="118" cy="38" rx="16" ry="12" fill="#999"/>
+    <ellipse cx="134" cy="40" rx="18" ry="10" fill="#999"/>
+</g>
+
+<line x1="0" y1="140" x2="900" y2="140" class="ground"/>
+
+<g transform="translate(120 90)">
+
+<rect x="0" y="0" width="35" height="30" fill="#58A6FF"/>
+<rect x="30" y="-15" width="15" height="45" fill="#58A6FF"/>
+<rect x="40" y="-25" width="15" height="20" fill="#58A6FF"/>
+<rect x="48" y="-18" width="8" height="8" fill="#0d1117"/>
+
+<rect x="10" y="30" width="6" height="18" fill="#58A6FF"/>
+
+<g class="legs">
+<rect x="18" y="30" width="6" height="22" fill="#58A6FF"/>
+<rect x="30" y="30" width="6" height="22" fill="#58A6FF"/>
+</g>
+
+</g>
+
+<g class="cactus" transform="translate(0 85)">
+    <rect x="0" y="20" width="12" height="45" fill="#2EA043"/>
+    <rect x="-8" y="35" width="8" height="18" fill="#2EA043"/>
+    <rect x="12" y="28" width="8" height="18" fill="#2EA043"/>
+</g>
+
+<text x="25" y="170" fill="#8b949e" font-size="14" font-family="monospace">
+Running...
+</text>
+
+</svg>
