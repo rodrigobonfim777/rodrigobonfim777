@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rodrigobonfim777/rodrigobonfim777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Rodrigo Bonfim
 
-Here are some ideas to get you started:
+### 💻 Computer Science Student | Full Stack Developer | Technology Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;React+Developer;C+%7C+C%23+%7C+Python;Always+learning+new+technologies!" />
+
+</div>
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cs,python,javascript,react,mysql,git,github,vscode,linux" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodrigobonfim777&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodrigobonfim777&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
