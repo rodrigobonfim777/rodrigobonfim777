@@ -2,12 +2,11 @@
 
 # 👋 Olá, eu sou Rodrigo Bonfim
 
-### 💻 Computer Science Student | Full Stack Developer | Technology Enthusiast
+### 💻 Computer Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;React+Developer;C+%7C+C%23+%7C+Python;Always+learning+new+technologies!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Learning+Programming;C+%7C+C%23+%7C+Python;Always+learning+new+technologies!" />
 
 </div>
-
 
 <div align="center">
 
@@ -32,13 +31,3 @@
 </td>
 </tr>
 </table>
-
----
-
-##  🐍 SNAKE
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigobonfim777/rodrigobonfim777/output/pacman-contribution-graph-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigobonfim777/rodrigobonfim777/output/pacman-contribution-graph.svg" /> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rodrigobonfim777/rodrigobonfim777/output/pacman-contribution-graph.svg" /> </picture>
-
-
-
-
-
